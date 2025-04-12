@@ -164,4 +164,3 @@ Build a modern audio and video calling application, with features similar to Zoo
 
 ---
 
-Want a starter GitHub repo structure or mockup UI to go with this? Let me know! 🚀
